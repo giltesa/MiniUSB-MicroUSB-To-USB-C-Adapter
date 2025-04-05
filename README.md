@@ -9,7 +9,7 @@ This board has been successfully tested on the following devices:
 *   BlitzWolf BW-LT5 Pro IP68 Waterproof LED lamp.
 
 
-![MICROUSB](https://raw.githubusercontent.com/giltesa/MicroUSB-To-USB-C-Adapter/master/4.%20Photos/XXXX.jpg)
+![MICROUSB](https://raw.githubusercontent.com/giltesa/MicroUSB-To-USB-C-Adapter/master/4.%20Photos/MicroUSB v1.1_4.jpg)
 
 
 ## Would you like it?
