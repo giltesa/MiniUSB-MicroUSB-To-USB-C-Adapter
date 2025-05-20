@@ -1,10 +1,14 @@
-# MicroUSB to USB-C Mod
+# MiniUSB and MicroUSB to USB-C Mod
 
-The **MicroUSB to USB-C** is an adapter board that allows you to replace a MicroUSB connector with a modern and standard USB-C port.
-This board is for general use and can be used in a wide variety of devices, allowing you to replace the old connector with the new USB-C.
+The **MiniUSB to USB-C** and **MicroUSB to USB-C** are adapters board that allows you to replace a MiniUSB or MicroUSB connector with a modern and standard USB-C port.
+These boards are for general use and can be used in a wide variety of devices, allowing you to replace the old connector with the new USB-C.
 
 This board has been successfully tested on the following devices:
 
+**MiniUSB:**
+ - Nothing yet.
+
+**MicroUSB:**
 *   Amazon Kindle Paperwhite 3 (7th Gen. June 30, 2015)
 *   BlitzWolf BW-LT5 Pro IP68 Waterproof LED lamp.
 
@@ -15,7 +19,6 @@ This board has been successfully tested on the following devices:
 ## Would you like it?
 
 [**MicroUSB to USB-C Mod**](https://shop.giltesa.com/?p=3521)
-
 
 
 ## License
